@@ -10,7 +10,7 @@ assignees: ''
 ## 기능 이름
 
 ## Todo
-[ ] job1
+- [ ] job1
 
 ### 예상시간
 1h
